@@ -1,0 +1,8 @@
+{
+  "markdownTest": ["main.md"],
+  "allowRunTest": false,
+  "allowNewFile": false,
+  "excludes": [
+    "challenge.json"
+  ]
+}
